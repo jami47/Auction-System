@@ -1,0 +1,10 @@
+John john24@gmail.com 1000 40000 3000
+Emma emma87@gmail.com 2000 50000 1500
+Michael michael12@gmail.com 3000 60000 2000
+Sophia sophia45@gmail.com 1500 45000 2500
+Daniel daniel34@gmail.com 2500 55000 3500
+Olivia olivia56@gmail.com 4000 70000 1000
+William william78@gmail.com 3500 65000 4500
+Ava ava23@gmail.com 5000 10000 2000
+James james90@gmail.com 2000 40000 3000
+Isabella isabella67@gmail.com 4500 75000 1500
