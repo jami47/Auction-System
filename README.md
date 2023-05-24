@@ -1,1 +1,2 @@
 # Auction-System
+This is a simple project in which any number of participants can bid for three particular items. The details of the participants along with their bidding amount will be taken from a file. The output will show the highest bid along with the name and email of the highest bidder for each item. This project showcases a basic implementation of inheritance, polymorphism and other concepts of Object Oriented Programming.
